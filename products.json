@@ -1,0 +1,38 @@
+[
+	{
+		"image": "products/Pet_Stainlest_Bowl.png",
+		"title": "Pet Staineless Bowl",
+		"description": "Dog/Cat Food or Water Bowl. The rounded bottom corners make it easy for your dog to get every last drop of food and help to make cleanup a cinch for you. The open rim provides access for cleaning. Made of high-quality stainless steel, this stainless pet bowls makes a great choice for your pet. The bowls offer a healthier alternative to plastic, don’t hold odors, and help make mealtimes less messy. The wide no-tip bowls perfect for dry kibble, wet food, treats, or fresh water. The durable stainless-steel bowls work well for both puppies and dogs, small and large alike, as well as cats or kittens.",
+		"price": "₱ 150"
+	},
+	{
+		"image": "products/Poop_Bag.png",
+		"title": "Poop Bag",
+		"description": "Unlike anything else, Harmless Poop Bag completely redefines dog waste bags, encompassing unique water-reactive material that can disintegrate rapidly in the presence of water. Its non-toxic and microplastic free formula is safe for marine life, with exceptional durability. It can be placed in any bin after use.",
+		"price": "₱ 90"
+	},
+	{
+		"image": "products/Pet_Wet_Wipes.png",
+		"title": "Pet Wet Wipes",
+		"description": "Safety removes dirt & eliminates tough pet odors. Used daily, helps reduce dander buildup. Moisturizing conditioners leaves a healthy & shiny coat. Great to use for quick & easy clean ups anytime!A fragrance-free, allcohol-free, natural moisturizing and 100% made from wood pulp.",
+		"price": "₱ 100"
+	},
+	{
+		"image": "products/Pet_Round_Bed.png",
+		"title": "Pet Round Bed",
+		"description": "This round bed has a snuggly plush sleep area that will have pets nestling cozily. The high-loft recycled polyester fiber fill will make pets feel like they are on cloud nine. The top edge of the bed is framed with elegant braided gold cording and the exterior is crafted from a supple micro-suede fabric",
+		"price": "₱ 150"
+	},
+	{
+		"image": "products/STAINLESS_NAIL_CLIPPER.png",
+		"title": "Stainless Nail Clipper",
+		"description": "The stainless nail clipper is made with high-density stainless steel, which makes it durable, and cut pet's nails precisely and easily. The sturdy spring can trim pet's thick nails easily with simple one cut. Make pet grooming accessable at home.",
+		"price": "₱ 200"
+	},
+	{
+		"image": "products/Pet_Finger_Toothbrush.png",
+		"title": "Pet FingerToothbrush",
+		"description": " For pets of the oral cavity and gum problems, a small number of gingival bleeding, without having to worry about, adhere to improve the oral environment brushing your teeth, it will no longer cause bleeding.",
+		"price": "₱ 150"
+	}
+]
